@@ -1,0 +1,6 @@
+/*slick*/
+.item_slider_content{padding: 5px;position: relative;top: 0; left: 0;}
+.slider,.slider2{width: calc(100% - 40px); margin-left: 20px;}
+.item_slider_content{height: 65vh;background-size: cover; background-repeat: no-repeat;padding: 0;}
+.slick-prev:before, .slick-next:before {color:black}
+.oscur{background: rgba(0,0,0,0.25); width: 50%;height: 100%;left: 50%;color: white;}
